@@ -1,0 +1,13 @@
+ setuptools
+ nltk
+ numpy
+ matplotlib
+ python-dateutil
+ pyparsing
+ pytz
+ cycler
+ lda
+ scipy
+ scikit-learn
+ pypdf2
+ tqdm
